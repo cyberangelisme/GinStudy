@@ -1,0 +1,4 @@
+2021/05/06 23:03:22 Error fetching url www.baidu.com: Get "www.baidu.com": unsupported protocol scheme ""
+2021/05/06 23:03:22 Error fetching url www.google.com: Get "www.google.com": unsupported protocol scheme ""
+2021/05/06 23:03:43 Error fetching url http://www.google.com: Get "http://www.google.com": dial tcp 211.137.51.78:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/05/06 23:03:43 Status Code for http://www.baidu.com: 200 OK

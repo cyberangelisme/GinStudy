@@ -1,0 +1,4 @@
+2021-05-07T23:15:15.992+0800	DEBUG	GoZap/main.go:49	Trying to hit GET request for www.baidu.com
+2021-05-07T23:15:16.009+0800	ERROR	GoZap/main.go:52	Error fetching URL www.baidu.com : Error = Get "www.baidu.com": unsupported protocol scheme ""
+2021-05-07T23:15:16.009+0800	DEBUG	GoZap/main.go:49	Trying to hit GET request for http://www.baidu.com
+2021-05-07T23:15:16.068+0800	INFO	GoZap/main.go:54	Success! statusCode = 200 OK for URL http://www.baidu.com

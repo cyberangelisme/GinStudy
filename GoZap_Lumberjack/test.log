@@ -1,0 +1,12 @@
+2021-05-07T23:15:15.992+0800	DEBUG	GoZap/main.go:49	Trying to hit GET request for www.baidu.com
+2021-05-07T23:15:16.009+0800	ERROR	GoZap/main.go:52	Error fetching URL www.baidu.com : Error = Get "www.baidu.com": unsupported protocol scheme ""
+2021-05-07T23:15:16.009+0800	DEBUG	GoZap/main.go:49	Trying to hit GET request for http://www.baidu.com
+2021-05-07T23:15:16.068+0800	INFO	GoZap/main.go:54	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-05-08T09:58:57.049+0800	DEBUG	GoZap_Lumberjack/main.go:55	Trying to hit GET request for www.baidu.com
+2021-05-08T09:58:57.072+0800	ERROR	GoZap_Lumberjack/main.go:58	Error fetching URL www.baidu.com : Error = Get "www.baidu.com": unsupported protocol scheme ""
+2021-05-08T09:58:57.072+0800	DEBUG	GoZap_Lumberjack/main.go:55	Trying to hit GET request for http://www.baidu.com
+2021-05-08T09:58:57.444+0800	INFO	GoZap_Lumberjack/main.go:60	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-05-08T09:59:29.994+0800	DEBUG	GoZap_Lumberjack/main.go:55	Trying to hit GET request for www.baidu.com
+2021-05-08T09:59:30.012+0800	ERROR	GoZap_Lumberjack/main.go:58	Error fetching URL www.baidu.com : Error = Get "www.baidu.com": unsupported protocol scheme ""
+2021-05-08T09:59:30.012+0800	DEBUG	GoZap_Lumberjack/main.go:55	Trying to hit GET request for http://www.baidu.com
+2021-05-08T09:59:30.167+0800	INFO	GoZap_Lumberjack/main.go:60	Success! statusCode = 200 OK for URL http://www.baidu.com
